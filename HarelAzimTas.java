@@ -17,7 +17,7 @@ import javafx.scene.layout.Priority;
 import javafx.stage.Stage;
 
 // name:Harel Azim Tas id:313320228
-public class HW2_HarelAzimTas extends Application implements addressbookFinal {
+public class HarelAzimTas extends Application implements addressbookFinal {
 	public static void main(String[] args) {
 		launch(args);
 	}
